@@ -18,3 +18,5 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Hex2Raw_20](reverse/hex2raw)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
+* **Binary Exploitation**
+    - [Bash-Loop_40](binary/bash-loop)
