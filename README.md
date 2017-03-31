@@ -16,6 +16,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
     - [Substitute_40](cryptography/substitute)
+    - [Hash101_50](cryptography/hash101)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
