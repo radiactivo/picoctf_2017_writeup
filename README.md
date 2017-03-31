@@ -16,3 +16,5 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Keyz_20](cryptography/keyz)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
+* **Web Exploitation**
+    - [What-Is-Web_20](web/what-is-web)
