@@ -18,6 +18,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Substitute_40](cryptography/substitute)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
+    - [Raw2Hex_20](reverse/raw2hex)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
 * **Binary Exploitation**
