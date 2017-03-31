@@ -15,6 +15,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Special-Agent-User_50](forensics/special-agent-user)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
+    - [Substitute_40](cryptography/substitute)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
 * **Web Exploitation**
