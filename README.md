@@ -26,3 +26,4 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Just-No_40](binary/just-no)
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
+    - [Piazza_10](miscellanous/piazza)
