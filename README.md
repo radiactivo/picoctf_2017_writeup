@@ -12,6 +12,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Lazy-Dev_50](master/lazy-dev)
 * **Forensics**
     - [Digital-Camouflage_50](forensics/digital-camouflage)
+    - [Special-Agent-User_50](forensics/special-agent-user)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
 * **Reverse Engineering**
