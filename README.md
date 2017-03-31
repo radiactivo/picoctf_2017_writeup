@@ -8,3 +8,5 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Tutorial-1_0](tutorial/tutorial_1)
     - [Tutorial-2_0](tutorial/tutorial_2)
     - [Tutorial-3_0](tutorial/tutorial_3)
+* **Master**
+    - [Lazy-Dev_50](master/lazy-dev)
