@@ -23,5 +23,6 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [What-Is-Web_20](web/what-is-web)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
+    - [Just-No_40](binary/just-no)
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
