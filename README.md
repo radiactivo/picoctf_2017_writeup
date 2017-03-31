@@ -28,3 +28,4 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
     - [Piazza_10](miscellanous/piazza)
+    - [Leaf-of-the-Tree_20](miscellanous/leaf-of-the-tree)
