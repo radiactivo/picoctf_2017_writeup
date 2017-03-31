@@ -14,3 +14,5 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Digital-Camouflage_50](forensics/digital-camouflage)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
+* **Reverse Engineering**
+    - [Hex2Raw_20](reverse/hex2raw)
