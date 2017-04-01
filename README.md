@@ -32,3 +32,4 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Piazza_10](miscellanous/piazza)
     - [Leaf-of-the-Tree_20](miscellanous/leaf-of-the-tree)
     - [Looooong_20](miscellanous/looooong)
+    - [Leaf-of-the-Forest_30](miscellanous/leaf-of-the-forest)
