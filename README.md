@@ -40,3 +40,4 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Leaf-of-the-Forest_30](miscellanous/leaf-of-the-forest)
     - [WorldChat_30](miscellanous/worldchat)
     - [Yarn_55](miscellanous/yarn)
+    - [Mystery-Box_60](miscellanous/mystery-box)
