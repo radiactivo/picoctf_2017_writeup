@@ -27,6 +27,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [A-Thing-Called-The-Stack_60](reverse/a-thing-called-the-stack)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
+    - [My-First-SQL_50](web/my-first-sql)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
