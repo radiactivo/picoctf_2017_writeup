@@ -31,6 +31,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
     - [My-First-SQL_50](web/my-first-sql)
+    - [TW-GR-E1-ART_100](web/tw-gr-e1-art)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
