@@ -26,6 +26,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
     - [A-Thing-Called-The-Stack_60](reverse/a-thing-called-the-stack)
+    - [Programmers-Assemble_75](reverse/programmers-assemble)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
     - [My-First-SQL_50](web/my-first-sql)
