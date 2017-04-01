@@ -13,6 +13,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Forensics**
     - [Digital-Camouflage_50](forensics/digital-camouflage)
     - [Special-Agent-User_50](forensics/special-agent-user)
+    - [Meta-Find-Me_70](forensics/meta-find-me)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
     - [Substitute_40](cryptography/substitute)
