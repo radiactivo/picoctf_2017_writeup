@@ -38,3 +38,4 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Looooong_20](miscellanous/looooong)
     - [Leaf-of-the-Forest_30](miscellanous/leaf-of-the-forest)
     - [WorldChat_30](miscellanous/worldchat)
+    - [Yarn_55](miscellanous/yarn)
