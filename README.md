@@ -15,6 +15,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Digital-Camouflage_50](forensics/digital-camouflage)
     - [Special-Agent-User_50](forensics/special-agent-user)
     - [Meta-Find-Me_70](forensics/meta-find-me)
+    - [Little-School-Bus_75](forensics/little-school-bus)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
     - [Substitute_40](cryptography/substitute)
