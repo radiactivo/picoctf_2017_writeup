@@ -37,6 +37,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
     - [Shellz_55](binary/shellz)
+    - [Shells_70](binary/shells)
     - [Guess-The-Number_75](binary/guess-the-number)
     - [Ive-Got-A-Secret_75](binary/ive-got-a-secret)
     - [Flagsay-1_80](binary/flagsay-1)
