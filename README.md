@@ -10,6 +10,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Tutorial-3_0](tutorial/tutorial_3)
 * **Master**
     - [Lazy-Dev_50](master/lazy-dev)
+    - [Missing-Identity_100](master/missing-identity)
 * **Forensics**
     - [Digital-Camouflage_50](forensics/digital-camouflage)
     - [Special-Agent-User_50](forensics/special-agent-user)
