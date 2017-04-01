@@ -21,6 +21,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [computeAES_50](cryptography/computeaes)
     - [computeRSA_50](cryptography/computersa)
     - [SoRandom_75](cryptography/sorandom)
+    - [LeakedHashes_90](cryptography/leakedhashes)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
