@@ -16,6 +16,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Special-Agent-User_50](forensics/special-agent-user)
     - [Meta-Find-Me_70](forensics/meta-find-me)
     - [Little-School-Bus_75](forensics/little-school-bus)
+    - [Just-Keyp-Trying_80](forensics/just-keyp-trying)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
     - [Substitute_40](cryptography/substitute)
