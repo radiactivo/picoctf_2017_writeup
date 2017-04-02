@@ -26,6 +26,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [SoRandom_75](cryptography/sorandom)
     - [LeakedHashes_90](cryptography/leakedhashes)
     - [Weird-RSA_90](cryptography/weird-rsa)
+    - [HashChain_90](cryptography/hashchain)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
