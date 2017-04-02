@@ -34,6 +34,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
+    - [Guess-The-Number_75](binary/guess-the-number)
     - [Ive-Got-A-Secret_75](binary/ive-got-a-secret)
     - [Flagsay-1_80](binary/flagsay-1)
     - [VR-Gear-Console_95](binary/vr-gear-console)
