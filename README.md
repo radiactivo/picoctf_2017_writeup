@@ -36,6 +36,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [My-First-SQL_50](web/my-first-sql)
     - [TW-GR-E1-ART_100](web/tw-gr-e1-art)
     - [TW-GR-E2-EOTDS_120](web/tw-gr-e2-eotds)
+    - [No-Eyes_125](web/no-eyes)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
