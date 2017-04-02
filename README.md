@@ -34,6 +34,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
+    - [Ive-Got-A-Secret_75](binary/ive-got-a-secret)
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
     - [Piazza_10](miscellanous/piazza)
