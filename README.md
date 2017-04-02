@@ -34,6 +34,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
     - [My-First-SQL_50](web/my-first-sql)
+    - [Biscuit_75](web/biscuit)
     - [TW-GR-E1-ART_100](web/tw-gr-e1-art)
     - [TW-GR-E2-EOTDS_120](web/tw-gr-e2-eotds)
     - [No-Eyes_125](web/no-eyes)
