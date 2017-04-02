@@ -39,7 +39,9 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [My-First-SQL_50](web/my-first-sql)
     - [Biscuit_75](web/biscuit)
     - [TW-GR-E1-ART_100](web/tw-gr-e1-art)
+    - [A-Happy-Union_110](web/a-happy-union)
     - [TW-GR-E2-EOTDS_120](web/tw-gr-e2-eotds)
+    - [A-Happy-Union_110](web/a-happy-union)
     - [No-Eyes_125](web/no-eyes)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
