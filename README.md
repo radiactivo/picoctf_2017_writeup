@@ -33,6 +33,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [A-Thing-Called-The-Stack_60](reverse/a-thing-called-the-stack)
     - [Programmers-Assemble_75](reverse/programmers-assemble)
     - [JSut-Duck-It-Up_100](reverse/jsut-duck-it-up)
+    - [Coffee_115](reverse/coffee)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
     - [My-First-SQL_50](web/my-first-sql)
