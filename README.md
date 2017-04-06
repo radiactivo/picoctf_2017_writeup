@@ -24,6 +24,7 @@ _Challenges without links are uncompleted/unattempted challenges._
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
+    - [A-Thing-Called-The-Stack_60](reverse/a-thing-called-the-stack)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
 * **Binary Exploitation**
