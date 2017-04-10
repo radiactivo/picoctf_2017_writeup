@@ -46,6 +46,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [TW-GR-E2-EOTDS_120](web/tw-gr-e2-eotds)
     - [A-Happy-Union_110](web/a-happy-union)
     - [No-Eyes_125](web/no-eyes)
+    - [TW-GR-E3-GTL_180](web/tw-gr-e3-gtl)
 * **Binary Exploitation**
     - [Bash-Loop_40](binary/bash-loop)
     - [Just-No_40](binary/just-no)
