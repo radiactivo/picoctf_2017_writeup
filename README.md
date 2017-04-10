@@ -12,6 +12,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Lazy-Dev_50](master/lazy-dev)
     - [Missing-Identity_100](master/missing-identity)
     - [War_125](master/war)
+    - [WeirderRSA_175](master/weirderRSA)
 * **Forensics**
     - [Digital-Camouflage_50](forensics/digital-camouflage)
     - [Special-Agent-User_50](forensics/special-agent-user)
