@@ -34,6 +34,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Broadcast_120](cryptography/broadcast)
     - [smallRSA_120](cryptography/smallrsa)
     - [SmallSign_140](cryptography/smallsign)
+    - [Encrypted-Shell_190](cryptography/encrypted-shell)
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
