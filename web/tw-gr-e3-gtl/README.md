@@ -1,7 +1,7 @@
 # PicoCTF_2017: TW_GR_E3_Gtl
 
-**Category:**
-**Points:**
+**Category:** Web Exploitation
+**Points:** 180
 **Description:**
 
 >Many think the third entry in the Toaster Wars: Going Rogue series didn't live up to Explorers due to its simplified gameplay, but I liked the new plot and ensemble cast better. Anyway, this [one](http://shell2017.picoctf.com:26592/) also has a flag that I can't figure out how to get...
