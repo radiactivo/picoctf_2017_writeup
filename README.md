@@ -58,6 +58,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Ive-Got-A-Secret_75](binary/ive-got-a-secret)
     - [Flagsay-1_80](binary/flagsay-1)
     - [VR-Gear-Console_95](binary/vr-gear-console)
+    - [Config-Console_125](binary/config-console)
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
     - [Piazza_10](miscellanous/piazza)
