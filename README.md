@@ -18,6 +18,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Meta-Find-Me_70](forensics/meta-find-me)
     - [Little-School-Bus_75](forensics/little-school-bus)
     - [Just-Keyp-Trying_80](forensics/just-keyp-trying)
+    - [Puzzingly-Accountable_100](forensics/puzzingly-accountable)
     - [Connect-the-Wigle_140](forensics/connect-the-wigle)
 * **Cryptography**
     - [Keyz_20](cryptography/keyz)
