@@ -40,6 +40,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Programmers-Assemble_75](reverse/programmers-assemble)
     - [JSut-Duck-It-Up_100](reverse/jsut-duck-it-up)
     - [Coffee_115](reverse/coffee)
+    - [MIPS_140](reverse/mips)
     - [Much-Ado-About-Hacking_165](reverse/much-ado-about-hacking)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
