@@ -53,6 +53,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [TW-GR-E2-EOTDS_120](web/tw-gr-e2-eotds)
     - [A-Happy-Union_110](web/a-happy-union)
     - [No-Eyes_125](web/no-eyes)
+    - [A-Kaley-Ceilidh](web/a-kaley-ceilidh)
     - [TW-GR-E3-GTL_180](web/tw-gr-e3-gtl)
     - [TW-GR-E4-STW_200](web/tw-gr-e4-stw)
 * **Binary Exploitation**
