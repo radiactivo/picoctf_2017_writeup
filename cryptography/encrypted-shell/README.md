@@ -1,11 +1,21 @@
-Welcome to the
-______ _   _   _____ _          _ _ 
-|  _  \ | | | /  ___| |        | | |
-| | | | |_| | \ `--.| |__   ___| | |
-| | | |  _  |  `--. \ '_ \ / _ \ | |
-| |/ /| | | | /\__/ / | | |  __/ | |
-|___/ \_| |_/ \____/|_| |_|\___|_|_|
+# PicoCTF_2017: Encrypted Shell
 
-Parameters:
-p = 174807157365465092731323561678522236549173502913317875393564963123330281052524687450754910240009920154525635325209526987433833785499384204819179549544106498491589834195860008906875039418684191252537604123129659746721614402346449135195832955793815709136053198207712511838753919608894095907732099313139446299843
-g = 41899070570517490692126143234857256603477072005476801644745865627893958675820606802876173648371028044404957307185876963051595214534530501331532626624926034521316281025445575243636197258111995884364277423716373007329751928366973332463469104730271236078593527144954324116802080620822212777139186990364810367977
+**Category:** Cryptography
+**Points:** 190
+**Description:**
+
+>[This service gives a shell](dhshell.py), but it's password protected! We were able intercept [this encrypted traffic](traffic.pcap) which may contain a successful password authentication. Can you get shell access and read the contents of flag.txt?
+The service is running at shell2017.picoctf.com:38314.
+
+**Hint:**
+
+>Are any of the parameters used in the key exchange weaker than they should be?
+
+## Write-up
+This challenge revolves on breaking the Diffie-Hellman key exchange. The hint given tells us that something is weak and upon observing the server code closely, we find that `a = random.randint(1, 2**46)`, which is surprisingly, a very small number.
+
+So, we are then able to use the "Baby Step Giant Step" algorithm to try and reverse `a` from the given `A`. Additionally, since we know the range of `a`, we can run a `sqrt(a)` to limit the amount of small steps we have to take.
+
+[Code](dhshell.py)
+
+Therefore, the flag is `467de743e8f82e09b555426e322adba5`.
