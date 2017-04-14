@@ -13,6 +13,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Missing-Identity_100](master/missing-identity)
     - [War_125](master/war)
     - [WeirderRSA_175](master/weirderRSA)
+    - Choose_150
 * **Forensics**
     - [Digital-Camouflage_50](forensics/digital-camouflage)
     - [Special-Agent-User_50](forensics/special-agent-user)
@@ -35,6 +36,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [smallRSA_120](cryptography/smallrsa)
     - [SmallSign_140](cryptography/smallsign)
     - [Encrypted-Shell_190](cryptography/encrypted-shell)
+    - ECC2_200
 * **Reverse Engineering**
     - [Hex2Raw_20](reverse/hex2raw)
     - [Raw2Hex_20](reverse/raw2hex)
@@ -67,6 +69,12 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Flagsay-1_80](binary/flagsay-1)
     - [VR-Gear-Console_95](binary/vr-gear-console)
     - [Config-Console_125](binary/config-console)
+    - Enter-The-Matrix_150
+    - Flagsay-2_150
+    - Aggregator_190
+    - Chat-Logger_200
+    - Deeper-Into-The-Matrix_200
+    - Contact-Helper_225
 * **Miscellanous**
     - [Internet-Kitties_10](miscellanous/internet-kitties)
     - [Piazza_10](miscellanous/piazza)
