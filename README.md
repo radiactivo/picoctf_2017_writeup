@@ -44,6 +44,7 @@ _Challenges without links are uncompleted/unattempted challenges._
     - [Coffee_115](reverse/coffee)
     - [MIPS_140](reverse/mips)
     - [Much-Ado-About-Hacking_165](reverse/much-ado-about-hacking)
+    - [Forest_200](reverse/forest)
 * **Web Exploitation**
     - [What-Is-Web_20](web/what-is-web)
     - [My-First-SQL_50](web/my-first-sql)
